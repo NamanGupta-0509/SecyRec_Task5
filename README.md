@@ -83,9 +83,10 @@ Sadly, Incorrect :(
 ## Python Code
 
 Find the kaggle file here - 
-model_updated: https://www.kaggle.com/namangg0509/model-updated
 
-model: https://www.kaggle.com/namangg0509/namang-220686-task5
+model_updated.ipynb : https://www.kaggle.com/namangg0509/model-updated
+
+model.ipynb : https://www.kaggle.com/namangg0509/namang-220686-task5
 
 ## Final Results
 ```
