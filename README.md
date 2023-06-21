@@ -52,14 +52,6 @@ def train(lr, momentum, num_hidden, sizes, activation, loss, batch_size, anneal,
     ann.gradient_descent(X_train, y_train, lr=lr, iterations=epochs)
 ```
 
-```
-ann = NeuralNetwork()
-ann.add_layer(layer1)
-ann.add_layer(layer2)
-ann.ass_layer(layer_n)     # Add this line
-
-```
-
 The code I've written is from stratch. I defined a class 'Layer' and a class 'NeuralNetwork' and built all the functions from there. The structure of ann is highly customizable with 'ReLU', 'Sigmoid', 'Tanh' and 'Softmax' as activation functions. The number of hidden layers and nodes can also be specified.
 
 When I tested, the model gave best results (also considering time to train) when I used 3 hidden layers of 100, 100 and 50 nodes, with 'tanh' and 'sigmoid' activation functions.
