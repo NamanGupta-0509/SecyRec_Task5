@@ -87,14 +87,8 @@ model_updated: https://www.kaggle.com/namangg0509/model-updated
 model: https://www.kaggle.com/namangg0509/namang-220686-task5
 
 ## Final Results
-
-On training data:
 ```
-Accuracy:  38.17%
-```
-On testing data:
-```
-Accuracy:  36.88 %
+Accuracy is close to ~ 30 %
 ```
 The accuracy is quite low, but it is justified as we are using a very basic ann. The task would have been more accurate if we used cnn or another advanced nn.
 But as the accuracy on testing data does not deviate much from accuracy on training data, we can atleast say that the model is not over-fitted. 
