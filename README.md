@@ -70,14 +70,15 @@ Some predictions were -
 Label - [Automobile] || Prediction - [Automobile]
 
 Therefore, Correct!
-![](https://ibb.co/BrDXWdZ)
+![image](https://github.com/NamanGupta-0509/SecyRec_Task5/assets/66472692/de08a19f-ddcd-4bdd-a410-5c9e3120dc7d)
+
 
 
 Label - [Automobile] || Prediction - [Automobile]
 
 Sadly, Incorrect :(
+![image](https://github.com/NamanGupta-0509/SecyRec_Task5/assets/66472692/86ca3a2a-4a85-4ab6-88f9-15135e8004fe)
 
-![](https://ibb.co/T8dwsd1)
 
 ## Python Code
 
