@@ -17,9 +17,15 @@ GitHub Repo link: https://github.com/NamanGupta-0509/SecyRec_Task5/
 ## The Problem
 Implement a feedforward neural network. This network will be trained and tested using the cifar-10. Specifically, given an input image (32x 32 pixels) from the cifar-10 dataset, the network will be trained to classify the image into 1 of 10 classes. Note, this neural network has to be implemented from scratch.
 
-**NOTE** - Consider the file **'model_updated.ipynb'** as the final code and **'results.csv'** as the predicted output to the test csv file og CIFAR-10 dataset.
+##
+
+**NOTE** - Consider the file **'model_updated.ipynb'** as the final code and **'results.csv'** as the predicted output to the test csv file of CIFAR-10 dataset.
+
+
 **NOTE** - I was unable to train the model locally on my machine, so I used kaggle and thus uploaded .ipynb file. Also as it could not be accessed via the command line, I added a separate function and wrote all the variables together. I will be  thankful for you accepting this. Moreover, I have run the program once and the results can be seen along the code as well.
 ## Overview of Code
+
+
 
 I tried to proceed using classes for 'Layer' and 'NeuralNetwork' so that there remains flexibility of adding new layers and change their parameters as well.
 
